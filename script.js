@@ -1,7 +1,7 @@
-//your code here
-var myModal = document.getElementById('myModal')
-var myInput = document.getElementById('myInput')
+// //your code here
+// var myModal = document.getElementById('accio-modal')
+// var myInput = document.getElementById('myInput')
 
-myModal.addEventListener('shown.bs.modal', function () {
-  myInput.focus()
-})
+// myModal.addEventListener('shown.bs.modal', function () {
+//   myModal.show()
+// })
